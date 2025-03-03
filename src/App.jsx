@@ -16,8 +16,7 @@ import Soon from "./Soon";
 const App = () => {
   return (
     <div>
-      <Soon/>
-      {/* <StickyNavbar />
+      <StickyNavbar />
       <Hero />
       <Imageslider />
       <Features />
@@ -27,7 +26,7 @@ const App = () => {
       <Multi />
       <Competitive />
       <Streams />
-      <Footer /> */}
+      <Footer />
     </div>
   );
 };
