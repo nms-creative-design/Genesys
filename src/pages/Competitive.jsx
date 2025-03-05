@@ -69,7 +69,7 @@ const Competitive = () => {
         variant="h3"
         className="text-center font-normal text-lg sm:text-xl md:text-xl lg:text-2xl"
       >
-        Multi-Agent Types
+        Competitive Edge
       </Typography>
 
       {/* Step Cards */}
